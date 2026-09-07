@@ -1,16 +1,30 @@
-## Hi there 👋
+# Oi, eu sou o Arthur 
 
-<!--
-**arthurlima236/arthurlima236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou cursando Engenharia de Software e buscando evoluir cada vez mais na área de desenvolvimento.
 
-Here are some ideas to get you started:
+Tenho focado meus estudos em Java e Backend, mas também tenho
+interesse em Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou estudando
+
+- Java
+- Programação Orientada a Objetos
+- SQL
+- Git e GitHub
+- APIs
+- Spring Boot
+- Inteligência Artificial
+
+## Projetos
+
+Aqui vou colocando meus projetos conforme for aprendendo
+e colocando novos conhecimentos em prática.
+
+###  Meu objetivo
+
+Me tornar um bom desenvolvedor, trabalhar com Java e,
+no futuro, juntar desenvolvimento de software com IA.
+
+---
+
+ Engenharia de Software | Java | Backend | IA
